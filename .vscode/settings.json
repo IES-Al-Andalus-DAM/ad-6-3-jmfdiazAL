@@ -1,4 +1,6 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1968a273-1897-4d54-889d-0858ed13c449/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/jmfdiaz-ad-6-3",
+    "appService.deploySubpath": "mongodb\\target\\mongodb-0.0.1-SNAPSHOT.jar"
 }
